@@ -1,0 +1,3 @@
+[submodule "chrome-netflix-keyboard-control"]
+	path = chrome-netflix-keyboard-control
+	url = git@github.com:chrisxf/netflix-keyboard-control-chrome-ext.git
